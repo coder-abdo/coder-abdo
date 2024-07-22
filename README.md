@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Abdelmonaem Shahat known as `Coder Abdo` a Full Stack Javascript.
 - 👀 I’m interested in Building Web applications, and programming languages.
-- 🌱 I’m currently learning Golang, Next JS, Nest JS, and much much more.
-- 💞️ I’m looking to collaborate on Building E-commerce platform or Social Media Application.
+- 🌱 I’m currently learning Golang, Next JS, Nest JS, and much more.
+- 💞️ I want to collaborate on Building an E-commerce platform or Social Media Application.
 - 📫 here is my Contacts:
-- Email: a.h2010.2007@gmail.com.
+- Email: abdelmonaemshahat@gmail.com.
 - LinkedIn: https://www.linkedin.com/in/abdelmonaem-shahat/.
 
 <!---
